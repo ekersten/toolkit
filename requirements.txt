@@ -1,0 +1,6 @@
+Django==1.11.2
+django-jet==1.0.6
+django-model-utils==3.0.0
+olefile==0.44
+Pillow==4.1.1
+pytz==2017.2
