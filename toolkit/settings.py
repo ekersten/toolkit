@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'menus',
     'multimedia',
     'pages',
+    'tags',
     'sample',
 ]
 
