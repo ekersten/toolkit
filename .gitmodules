@@ -1,0 +1,18 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/ekersten/dj-toolkit-core
+[submodule "tags"]
+	path = tags
+	url = https://github.com/ekersten/dj-toolkit-tags
+[submodule "pages"]
+	path = pages
+	url = https://github.com/ekersten/dj-toolkit-pages
+[submodule "multimedia"]
+	path = multimedia
+	url = https://github.com/ekersten/dj-toolkit-multimedia
+[submodule "menus"]
+	path = menus
+	url = https://github.com/ekersten/dj-toolkit-menus
+[submodule "grids"]
+	path = grids
+	url = https://github.com/ekersten/dj-toolkit-grids
