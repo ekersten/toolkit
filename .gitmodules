@@ -16,3 +16,6 @@
 [submodule "grids"]
 	path = grids
 	url = https://github.com/ekersten/dj-toolkit-grids
+[submodule "sitesettings"]
+	path = sitesettings
+	url = https://github.com/ekersten/dj-toolkit-sitesettings
