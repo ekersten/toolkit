@@ -8,6 +8,7 @@ class Car(Taggable):
     brand = models.CharField(max_length=50)
     model = models.CharField(max_length=50)
     year = models.PositiveIntegerField(validators=[MinValueValidator(2010)])
+    slug = models.CharField(max_length=100, unique=True)
 
     def __str__(self):
         return '{0} {1} {2}'.format(self.brand, self.model, self.year)
